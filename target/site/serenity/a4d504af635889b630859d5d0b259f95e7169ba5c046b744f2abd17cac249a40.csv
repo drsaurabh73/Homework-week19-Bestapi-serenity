@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Service CURD test with steps","This will create new Services","SUCCESS","2022-06-07T18:12:53.553+01:00[Europe/London]","0.0","0.17"
+"Service CURD test with steps","Verify if the Services was added to the application","SUCCESS","2022-06-07T18:12:53.723+01:00[Europe/London]","0.0","0.12"
+"Service CURD test with steps","Update the Services information and verify the updated information","SUCCESS","2022-06-07T18:12:53.848+01:00[Europe/London]","0.0","0.22"
+"Service CURD test with steps","Delete the Service and verify if the store is deleted!","SUCCESS","2022-06-07T18:12:54.076+01:00[Europe/London]","0.0","0.15"

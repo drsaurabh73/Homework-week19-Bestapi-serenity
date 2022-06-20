@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store CURD test with steps","This will create a new store","SUCCESS","2022-06-07T18:12:54.436+01:00[Europe/London]","0.0","0.12"
+"Store CURD test with steps","Verify if the store was added to the application","SUCCESS","2022-06-07T18:12:54.556+01:00[Europe/London]","0.0","0.06"
+"Store CURD test with steps","Update the Proudct information and verify the updated information","SUCCESS","2022-06-07T18:12:54.617+01:00[Europe/London]","0.0","0.18"
+"Store CURD test with steps","Delete the store and verify if the store is deleted!","SUCCESS","2022-06-07T18:12:54.801+01:00[Europe/London]","0.0","0.11"

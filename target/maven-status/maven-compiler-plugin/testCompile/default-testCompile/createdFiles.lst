@@ -1,0 +1,7 @@
+com\localhost\bestapiinfo\UtilityCURDWithSteps.class
+com\localhost\bestapiinfo\CategoryCURDTestWithSteps.class
+com\localhost\bestapiinfo\StoreCURDTestWithSteps.class
+com\localhost\bestapiinfo\ProductCURDTestWithSteps.class
+com\localhost\bestapiinfo\ServiceCURDTestWithSteps.class
+com\localhost\bestapiinfo\FirstTest.class
+com\localhost\testbase\TestBase.class

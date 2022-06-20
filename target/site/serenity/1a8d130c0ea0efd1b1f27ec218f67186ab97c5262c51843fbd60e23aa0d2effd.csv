@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Category CURD test with steps","This will create new category","SUCCESS","2022-06-07T18:12:39.053+01:00[Europe/London]","0.0","7.96"
+"Category CURD test with steps","Verify if the category was added to the application","SUCCESS","2022-06-07T18:12:47.045+01:00[Europe/London]","0.0","0.13"
+"Category CURD test with steps","This will update the category","SUCCESS","2022-06-07T18:12:47.179+01:00[Europe/London]","0.0","0.26"
+"Category CURD test with steps","Delete the category and verify if the student is deleted!","SUCCESS","2022-06-07T18:12:47.440+01:00[Europe/London]","0.0","1.01"
